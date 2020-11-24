@@ -1,0 +1,16 @@
+3:
+• teren lub pomieszczenie o w miarę zróżnicowanej geometrii - done
+• kilka obiektów nieruchomych - done
+• przynajmniej jeden obiekt ruchomy - done
+• Przynajmniej jeden z wyświetlanych modeli powinien odgrywać animację - done
+• Możliwość poruszania i obracania kamerą - done
+
+4:
+• Oświetlenie sceny przynajmniej jednym światłem dynamicznym
+• Wyświetlanie dynamicznych cieni
+• Wykorzystanie kilku różnych rodzajów materiału, w tym przynajmniej jednego oteksturowanego i przynajmniej jednego wykorzystującego przezroczystość
+• Wykorzystanie normal mappingu dla przynajmniej jednego obiektu
+
+5:
+• Zastosowanie post-processingu w celu nakładania wybranego zestawu efektów na wygenerowany obraz sceny (np. Bloom czy anti-aliasing)
+• Wyświetlanie obiektów dwuwymiarowych, takich jak GUI czy licznik FPS
